@@ -1,4 +1,4 @@
-# 🎥 Minimal WebRTC Video Chat
+#  Minimal WebRTC Video Chat
 
 A simple peer-to-peer video calling app built with **Node.js**, **Express**, **WebSocket**, and **Simple-Peer** for direct browser-to-browser video communication. No database or frontend framework required — just pure WebRTC for learning or quick prototyping.
 
